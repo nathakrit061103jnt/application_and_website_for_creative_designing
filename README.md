@@ -18,8 +18,7 @@
 9. https://giphy.com/ เว็บไซต์สำหรับดาวโหลดภาพ Gif เคลื่อนไหว
 10. https://tenor.com/ เว็บไซต์สำหรับดาวโหลดภาพ Gif เคลื่อนไหว
 11. https://spark.adobe.com/tools/remove-background เว็บไซต์ใช้ตัดพื้นหลังฟรีโดยใช้ Ai
-12. https://www.inpixio.com/remove-background/ เว็บไซต์ใช้ตัดพื้นหลังฟรีโดยใช้ Ai
-13. https://photoscissors.com/  เว็บไซต์ใช้ตัดพื้นหลังฟรีโดยใช้ Ai เเะสามารถปรับเองเพิ่มเติมได้
+12. https://www.inpixio.com/remove-background/ เว็บไซต์ใช้ตัดพื้นหลังฟรีโดยใช้ Ai 
 
 ## Application
 1. Canva
