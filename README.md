@@ -15,9 +15,11 @@
     เว็บไซต์ที่ใช้ในการหา ไอคอนฟรี สติ๊กเกอร์ฟรี   สามารถดาวโหลดได้ฟรี ไม่มีลิขสิทธิ์ 
 7. https://storyset.com เว็บไซต์เเจกภาพประกอบ Illustrations เพื่อนำมาใช้ในงานออกเเบบ เเละสามารถปรับสีต่าง ๆ ได้
 8. https://getstickerpack.com เว็บไซต์สำหรับดาวโหลดภาพ Gif เคลื่อนไหว
-9. https://spark.adobe.com/tools/remove-background เว็บไซต์ใช้ตัดพื้นหลังฟรีโดยใช้ Ai
-10. https://www.inpixio.com/remove-background/ เว็บไซต์ใช้ตัดพื้นหลังฟรีโดยใช้ Ai
-11. https://photoscissors.com/  เว็บไซต์ใช้ตัดพื้นหลังฟรีโดยใช้ Ai เเะสามารถปรับเองเพิ่มเติมได้
+9. https://giphy.com/ เว็บไซต์สำหรับดาวโหลดภาพ Gif เคลื่อนไหว
+10. https://tenor.com/ เว็บไซต์สำหรับดาวโหลดภาพ Gif เคลื่อนไหว
+11. https://spark.adobe.com/tools/remove-background เว็บไซต์ใช้ตัดพื้นหลังฟรีโดยใช้ Ai
+12. https://www.inpixio.com/remove-background/ เว็บไซต์ใช้ตัดพื้นหลังฟรีโดยใช้ Ai
+13. https://photoscissors.com/  เว็บไซต์ใช้ตัดพื้นหลังฟรีโดยใช้ Ai เเะสามารถปรับเองเพิ่มเติมได้
 
 ## Application
 1. Canva
