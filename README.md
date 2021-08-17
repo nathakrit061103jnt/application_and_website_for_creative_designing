@@ -28,6 +28,8 @@
 18. https://www.fontspace.com/popular/fonts ดาวโหลดฟอนต์ฟรี
 19. https://www.1001freefonts.com/ ดาวโหลดฟอนต์ฟรี
 20. https://www.dafont.com/ ดาวโหลดฟอนต์ฟรี
+21. https://fonts.google.com/icons เเจก icon เเนว Material Design
+22 https://material.io/resources/color/ เเจก สี เเนว Material Design
 
 ## Application
 
@@ -42,3 +44,4 @@
 
 ## Blog
 1. https://salehere.co.th/articles/100-color-code?ref=fbsh บล็อกอธิบายเรื่อง ความหมายของสี เเละเเจกธีมสี น่ารัก ๆ
+2. https://material.io/design เว็บไซต์สอนการออกเเบบเเนว Material Design ที่ Google 
