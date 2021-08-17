@@ -30,7 +30,7 @@
 20. https://www.dafont.com/ ดาวโหลดฟอนต์ฟรี
 21. https://fonts.google.com/icons เเจก icon เเนว Material Design
 22 https://material.io/resources/color/ เเจก สี เเนว Material Design
-23. https://www.bitmoji.com/ เเพลตฟอร์มที่ใช้สร้าง Emoji น่ารัก ๆ
+ 
 
 ## Application
 
@@ -38,6 +38,7 @@
    เเอปพลิเครชั่นที่ใช้ในการออกเเบบภาพ วิดีโอ งานนำเสนอ เเละอื่น ๆ
 2. Background Eraser
    เเอปพลิเครชั่นที่ใช้ในการตัดภาพพื้นหลัง เพื่อนำไปใช้ในการตกเเต่ง
+<!-- 3. bitmoji -->  เเพลตฟอร์มที่ใช้สร้าง Emoji น่ารัก ๆ
 
 ## Program Computer
 
