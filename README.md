@@ -30,6 +30,7 @@
 20. https://www.dafont.com/ ดาวโหลดฟอนต์ฟรี
 21. https://fonts.google.com/icons เเจก icon เเนว Material Design
 22 https://material.io/resources/color/ เเจก สี เเนว Material Design
+23. https://www.bitmoji.com/ เเพลตฟอร์มที่ใช้สร้าง Emoji น่ารัก ๆ
 
 ## Application
 
