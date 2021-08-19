@@ -39,6 +39,9 @@
 
 1. https://color.adobe.com
    เว็บไซต์ที่ใช้ในการหาโทนสี ธีมสี ในการสร้างงานออกแบบ
+2. https://colorhunt.co เว็บไซต์เเจกธีมสี เเนว น่ารัก ๆ
+3. https://coolors.co/palettes/trending เว็บไซต์ในการสร้าง ธีมสีเเละเเจกธีมสี น่ารัก ๆ
+4. https://mycolor.space/ เว็บไซต์ในการสร้าง ธีมสีเเนวน่ารัก ๆ 
 2. https://material.io/resources/color/ เเจก สี เเนว Material Design
 
 
