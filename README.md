@@ -63,8 +63,9 @@
 6. https://www.dafont.com/ ดาวโหลดฟอนต์ฟรี
 7. https://fonts.google.com/icons เเจก icon เเนว Material Design
 
-### เว็บไซต์เเละ Chanel ในการเรียนออกเเบบ
+### เว็บไซต์เเละ Chanel ในการเรียนออกเเบบ เเละถ่ายภาพ
 1. https://salehere.co.th/articles/computer-graphic-online-coures?ref=fbsh บทความเเจกเเหล่งเรียนออกเเบบ
+2. https://salehere.co.th/articles/kmutt-free-online-photography-courses?ref=fbsh เว็บไซต์ที่ใช้ในการเรียนถ่ายภาพ
 
  
 ## Application
