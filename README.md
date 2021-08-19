@@ -42,7 +42,9 @@
 2. https://colorhunt.co เว็บไซต์เเจกธีมสี เเนว น่ารัก ๆ
 3. https://coolors.co/palettes/trending เว็บไซต์ในการสร้าง ธีมสีเเละเเจกธีมสี น่ารัก ๆ
 4. https://mycolor.space/ เว็บไซต์ในการสร้าง ธีมสีเเนวน่ารัก ๆ 
-2. https://material.io/resources/color/ เเจก สี เเนว Material Design
+5. https://pigment.shapefactory.co/ เว็บไซต์ในการสร้าง ธีมสี
+6. https://salehere.co.th/articles/100-color-code?ref=fbsh บล็อกอธิบายเรื่อง ความหมายของสี เเละเเจกธีมสี น่ารัก ๆ
+7. https://material.io/resources/color/ เเจก สี เเนว Material Design
 
 
 ### เว็บไซต์ที่ใช้ในการตัดพื้นหลังภาพ เพื่อนำไปใช้ในงานออกเเบบ
@@ -60,6 +62,9 @@
 5. https://www.1001freefonts.com/ ดาวโหลดฟอนต์ฟรี
 6. https://www.dafont.com/ ดาวโหลดฟอนต์ฟรี
 7. https://fonts.google.com/icons เเจก icon เเนว Material Design
+
+### เว็บไซต์เเละ Chanel ในการเรียนออกเเบบ
+1. https://salehere.co.th/articles/computer-graphic-online-coures?ref=fbsh บทความเเจกเเหล่งเรียนออกเเบบ
 
  
 ## Application
@@ -79,3 +84,4 @@
 2. https://material.io/design เว็บไซต์สอนการออกเเบบเเนว Material Design ที่ Google 
 3. https://salehere.co.th/articles/matching-color-website?ref=fbsh บทความเเจกเว็บไซต์ในการหา ธีมสี เเละเครื่องมือต่าง ๆ ในการสร้างธีมสี
 4. https://salehere.co.th/articles/gif-instagram-story-artist-name?ref=fbsh บทความสอนการค้นหาภาพ Gif เคลื่อนไหว ใน ไอจีเเละเฟซบุ๊ค สวยๆ น่ารัก ๆ
+
