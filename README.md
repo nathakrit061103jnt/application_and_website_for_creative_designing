@@ -74,3 +74,4 @@
 ## Blog
 1. https://salehere.co.th/articles/100-color-code?ref=fbsh บล็อกอธิบายเรื่อง ความหมายของสี เเละเเจกธีมสี น่ารัก ๆ
 2. https://material.io/design เว็บไซต์สอนการออกเเบบเเนว Material Design ที่ Google 
+3. https://salehere.co.th/articles/matching-color-website?ref=fbsh บทความเเจกเว็บไซต์ในการหา ธีมสี เเละเครื่องมือต่าง ๆ ในการสร้างธีมสี
