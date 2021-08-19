@@ -2,37 +2,63 @@
 
 ## Website
 
+### เว็บไซต์ เเต่งใช้ภาพเเละวิดีโอ
+
 1. https://www.canva.com
    เว็บไซต์ที่ใช้ในการออกเเบบภาพ วิดีโอ งานนำเสนอ เเละอื่น ๆ
-2. https://www.pinterest.com
-   เว็บไซต์ที่ใช้ในการหาไอเดีย ในการถ่ายภาพ แต่งรูป การเเต่งบ้าน เเละงานออกเเบบอื่น ๆ
-3. https://www.freepik.com
-   เว็บไซต์ที่ใช้ในการหา รูปภาพ ไอคอน การแต่งรูป เเละงานออกเเบบอื่น ๆ
-4. https://pixabay.com
-   เว็บไซต์ที่ใช้ในการหาภาพ และเพลง และวิดีโอฟรี สามารถดาวโหลดได้ฟรี ไม่มีลิขสิทธิ์
-5. https://color.adobe.com
-   เว็บไซต์ที่ใช้ในการหาโทนสี ธีมสี ในการสร้างงานออกแบบ
-6. https://www.flaticon.com
-   เว็บไซต์ที่ใช้ในการหา ไอคอนฟรี สติ๊กเกอร์ฟรี สามารถดาวโหลดได้ฟรี ไม่มีลิขสิทธิ์
-7. https://storyset.com เว็บไซต์เเจกภาพประกอบ Illustrations เพื่อนำมาใช้ในงานออกเเบบ เเละสามารถปรับสีต่าง ๆ ได้
-8. https://www.vecteezy.com เว็บไซต์ที่ใช้ในการหารูปภาพ ภาพ Vector สามารถดาวโหลดได้ฟรี ไม่มีลิขสิทธิ์
-9. https://getstickerpack.com เว็บไซต์สำหรับดาวโหลดภาพ Gif เคลื่อนไหว
-10. https://giphy.com/ เว็บไซต์สำหรับดาวโหลดภาพ Gif เคลื่อนไหว
-11. https://tenor.com/ เว็บไซต์สำหรับดาวโหลดภาพ Gif เคลื่อนไหว
-12. https://spark.adobe.com/tools/remove-background เว็บไซต์ใช้ตัดพื้นหลังฟรีโดยใช้ Ai
-13. https://www.remove.bg/ เว็บไซต์ใช้ตัดพื้นหลังฟรีโดยใช้ Ai สามารถเเก้ไขเพิ่มเติมได้
-14. https://www.inpixio.com/remove-background/ เว็บไซต์ใช้ตัดพื้นหลังฟรีโดยใช้ Ai
-15. https://www.f0nt.com ดาวโหลดฟอนต์ภาษาไทยฟรี
-16. https://fonts.google.com/ ดาวโหลดฟอนต์ฟรี
-17. https://befonts.com/ ดาวโหลดฟอนต์ฟรี
-18. https://www.fontspace.com/popular/fonts ดาวโหลดฟอนต์ฟรี
-19. https://www.1001freefonts.com/ ดาวโหลดฟอนต์ฟรี
-20. https://www.dafont.com/ ดาวโหลดฟอนต์ฟรี
-21. https://fonts.google.com/icons เเจก icon เเนว Material Design
-22  https://material.io/resources/color/ เเจก สี เเนว Material Design
-23. https://icon-icons.com ไอคอนฟรี
- 
 
+### เว็บไซต์เเจกรูปภาพ llustation เสียง เเละวิดีโอ 
+
+1. https://pixabay.com
+   เว็บไซต์ที่ใช้ในการหาภาพ และเพลง และวิดีโอฟรี สามารถดาวโหลดได้ฟรี ไม่มีลิขสิทธิ์
+2. https://www.freepik.com เว็บไซต์ที่ใช้ในการหา รูปภาพ ไอคอน การแต่งรูป เเละงานออกเเบบอื่น ๆ
+3. https://storyset.com เว็บไซต์เเจกภาพประกอบ Illustrations เพื่อนำมาใช้ในงานออกเเบบ เเละสามารถปรับสีต่าง ๆ ได้
+4. https://unsplash.com  เว็บไซต์ที่ใช้ในการหา รูปภาพ เเละงานออกเเบบอื่น ๆ
+5. https://www.vecteezy.com เว็บไซต์ที่ใช้ในการหารูปภาพ ภาพ Vector สามารถดาวโหลดได้ฟรี ไม่มีลิขสิทธิ์
+6. https://www.pngplay.com เเจกภาพ PNG ไม่ติดพื้นหลัง
+7. http://pngimg.com เเจกภาพ PNG ไม่ติดพื้นหลัง
+
+
+### เว็บไซต์เเจกไอคอนเเละสติ๊กเกอร์
+1. https://www.flaticon.com
+   เว็บไซต์ที่ใช้ในการหา ไอคอนฟรี สติ๊กเกอร์ฟรี สามารถดาวโหลดได้ฟรี ไม่มีลิขสิทธิ์
+2 https://icon-icons.com ไอคอนฟรี
+3. https://icons8.com เว็บไซต์เเจกไอคอน ภาพ llustation
+
+### เว็บไซต์เเจกภาพเคลื่นไหว Gif 
+1. https://getstickerpack.com เว็บไซต์สำหรับดาวโหลดภาพ Gif เคลื่อนไหว
+2. https://giphy.com/ เว็บไซต์สำหรับดาวโหลดภาพ Gif เคลื่อนไหว
+3. https://tenor.com/ เว็บไซต์สำหรับดาวโหลดภาพ Gif เคลื่อนไหว
+4. https://storyset.com เว็บไซต์เเจกภาพประกอบ Illustrations เพื่อนำมาใช้ในงานออกเเบบ เเละสามารถปรับสีต่าง ๆ ได้
+
+### เว็บไซต์ในการหาไอเดีย รูปภาพ ไอคอนต่าง ๆ เเละอื่น ๆ ที่ใช้สำหรับงานออกเเบบ
+1. https://www.pinterest.com
+   เว็บไซต์ที่ใช้ในการหาไอเดีย ในการถ่ายภาพ แต่งรูป การเเต่งบ้าน รูปภาพต่าง ๆ เเละงานออกเเบบอื่น ๆ
+
+### เว็บไซต์เเจก ธีมสี สร้างธีมสี สำหรับงานออกเเบบ ต่าง ๆ
+
+1. https://color.adobe.com
+   เว็บไซต์ที่ใช้ในการหาโทนสี ธีมสี ในการสร้างงานออกแบบ
+2. https://material.io/resources/color/ เเจก สี เเนว Material Design
+
+
+### เว็บไซต์ที่ใช้ในการตัดพื้นหลังภาพ เพื่อนำไปใช้ในงานออกเเบบ
+
+1. https://spark.adobe.com/tools/remove-background เว็บไซต์ใช้ตัดพื้นหลังฟรีโดยใช้ Ai
+2. https://www.remove.bg/ เว็บไซต์ใช้ตัดพื้นหลังฟรีโดยใช้ Ai สามารถเเก้ไขเพิ่มเติมได้
+3. https://www.inpixio.com/remove-background/ เว็บไซต์ใช้ตัดพื้นหลังฟรีโดยใช้ Ai
+
+### เว็บไซต์เเจกฟอนต์ตัวหนังสือ
+
+1. https://www.f0nt.com ดาวโหลดฟอนต์ภาษาไทยฟรี
+2. https://fonts.google.com/ ดาวโหลดฟอนต์ฟรี
+3. https://befonts.com/ ดาวโหลดฟอนต์ฟรี
+4. https://www.fontspace.com/popular/fonts ดาวโหลดฟอนต์ฟรี
+5. https://www.1001freefonts.com/ ดาวโหลดฟอนต์ฟรี
+6. https://www.dafont.com/ ดาวโหลดฟอนต์ฟรี
+7. https://fonts.google.com/icons เเจก icon เเนว Material Design
+
+ 
 ## Application
 
 1. Canva
