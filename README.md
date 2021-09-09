@@ -96,5 +96,5 @@
 4. https://salehere.co.th/articles/gif-instagram-story-artist-name?ref=fbsh บทความสอนการค้นหาภาพ Gif เคลื่อนไหว ใน ไอจีเเละเฟซบุ๊ค สวยๆ น่ารัก ๆ
 
 ## เพจ เฟซบุ๊คที่ใช้ดูเป็นตัวอย่างในการเเต่งภาพ
-1. SALE HERE
-2. ชอบช้อป - ShobShop
+1. SALE HERE https://www.facebook.com/salehere
+2. ชอบช้อป - ShobShop https://www.facebook.com/ShobShop.TH
