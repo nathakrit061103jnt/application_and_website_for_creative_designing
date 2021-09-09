@@ -95,3 +95,6 @@
 3. https://salehere.co.th/articles/matching-color-website?ref=fbsh บทความเเจกเว็บไซต์ในการหา ธีมสี เเละเครื่องมือต่าง ๆ ในการสร้างธีมสี
 4. https://salehere.co.th/articles/gif-instagram-story-artist-name?ref=fbsh บทความสอนการค้นหาภาพ Gif เคลื่อนไหว ใน ไอจีเเละเฟซบุ๊ค สวยๆ น่ารัก ๆ
 
+## เพจ เฟซบุ๊คที่ใช้ดูเป็นตัวอย่างในการเเต่งภาพ
+1. SALE HERE
+2. ชอบช้อป - ShobShop
