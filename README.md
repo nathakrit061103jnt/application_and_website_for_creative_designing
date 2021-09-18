@@ -58,6 +58,7 @@
 7. https://material.io/resources/color/ เเจก สี เเนว Material Design
 
 
+
 ### เว็บไซต์ที่ใช้ในการตัดพื้นหลังภาพ เพื่อนำไปใช้ในงานออกเเบบ
 
 1. https://spark.adobe.com/tools/remove-background เว็บไซต์ใช้ตัดพื้นหลังฟรีโดยใช้ Ai
