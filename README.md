@@ -6,6 +6,17 @@
 
 1. https://www.canva.com
    เว็บไซต์ที่ใช้ในการออกเเบบภาพ วิดีโอ งานนำเสนอ เเละอื่น ๆ
+2. https://www.photopea.com/ เว็บไซต์เเต่งภาพโดยไม่ต้องติดตั้งลงบนเครื่อง คล้าย ๆ โปรเเกรม Photoshop เเต่ใช้งานฟรี
+3. https://www.befunky.com/ เว็บไซต์ที่ใช้ในการเเต่งภาพ
+4. https://ipiccy.com/  เว็บไซต์ที่ใช้ในการเเต่งภาพ
+
+
+### เว็บไซต์ที่ใช้ตัดต่อวิดีโอ
+1. https://app.clipchamp.com เว็บไซต์ตัดต่อวิดีโอ
+2. https://www.wevideo.com เว็บไซต์ตัดต่อวิดีโอ
+3. https://online-video-cutter.com เว็บไซต์ตัดต่อวิดีโอ
+4. https://www.canva.com เว็บไซต์ตัดต่อวิดีโอ
+   เว็บไซต์ที่ใช้ในการออกเเบบภาพ วิดีโอ งานนำเสนอ เเละอื่น ๆ
 
 ### เว็บไซต์เเจกรูปภาพ llustation เสียง เเละวิดีโอ 
 
@@ -65,7 +76,7 @@
 
 ### เว็บไซต์เเละ Chanel ในการเรียนออกเเบบ เเละถ่ายภาพ
 1. https://salehere.co.th/articles/computer-graphic-online-coures?ref=fbsh บทความเเจกเเหล่งเรียนออกเเบบ
-2. https://salehere.co.th/articles/kmutt-free-online-photography-courses?ref=fbsh เว็บไซต์ที่ใช้ในการเรียนถ่ายภาพ
+2. https://salehere.co.th/articles/kmutt-free-online-photography-courses?ref=fbsh เว็บไซต์ที่ใช้ในการเรียนถ่ายภาพรั
 
  
 ## Application
@@ -81,13 +92,11 @@
 4. Meitu เเอปเเต่งภาพสินค้า คลุมโทนสีภาพ
 5. Line Camera เเอปเเต่งภาพสินค้า คลุมโทนสีภาพ ใช้งานง่าย
 
-
-
-
-
 ## Program Computer
 
 1. Powerpoint365 2016 2019 ทำสไลด์ งานออกเเบบต่าง ๆ ทำวิดีโอสั้น เเละมีความง่ายกว่า Photoshop เเละที่สำคัญคือสามารถนำมาลบพื้นหลังได้
+
+ 
 
 ## Blog
 1. https://salehere.co.th/articles/100-color-code?ref=fbsh บล็อกอธิบายเรื่อง ความหมายของสี เเละเเจกธีมสี น่ารัก ๆ
